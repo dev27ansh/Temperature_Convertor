@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Convertor</string>
+    <string name="entertemperature">Enter Temperature</string>
+    <string name="ctof">Celsius to Fahrenheit</string>
+    <string name="ftoc">Fahrenheit to Celsius</string>
+    <string name="result">Result</string>
+    <string name="convert">Convert</string>
+</resources>
